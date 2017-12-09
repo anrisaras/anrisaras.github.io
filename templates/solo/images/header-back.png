@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html dir="LTR" lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <base href="http://xn--80aidokfob8e.xn--p1ai/">
+    <title>Ай, Молодец!</title>
+<meta name="Description" Content="Ай, Молодец!">
+<meta name="Keywords" CONTENT="">
+<meta name="Reply-to" CONTENT="">
+    <link rel="apple-touch-icon" sizes="57x57" href="templates/solo/images/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="templates/solo/images/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="templates/solo/images/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="templates/solo/images/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="templates/solo/images/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="templates/solo/images/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="templates/solo/images/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="templates/solo/images/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="templates/solo/images/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="templates/solo/images/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="templates/solo/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="templates/solo/images/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="templates/solo/images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="templates/solo/images/favicon/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="templates/solo/images/favicon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="yandex-verification" content="a6f4743eae875856" />
+    <link type="text/css" href="templates/solo/css/font-awesome.min.css" rel="stylesheet" media="screen"/>
+    <link type="text/css" href="templates/solo/css/bootstrap-datetimepicker.min.css" rel="stylesheet" media="screen"/>
+    <link rel="stylesheet" type="text/css" href="templates/solo/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="templates/solo/js/owl-carousel/owl.carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="templates/solo/css/style.css">
+    <link rel="stylesheet" type="text/css" href="templates/solo/css/audioplayer.css">
+    <style>
+              .p_img_href {
+                height: 150px;
+                line-height: 150px;
+              }
+              .p_img_href_list {
+							  max-width: 150px;
+							}
+            </style></head>
+  <body>
+
+
+    <div id="compare_box">
+           
+    </div>
+    <!-- wishlist //-->
+          <div id="wishlist_box2" >
+                      </div>
+<!-- wishlist_smend //-->
+<div class="container-fluid">
+    <div class="row">
+                    <header class="p_header">
+                <div class="container">
+                    <a href="/" class="p_header_logo">
+                        <img src="templates/solo/images/logo_im.png"/>
+                        <span class="p_header_logo_title">Ай, Молодец!</span>
+                        <span class="p_header_logo_subtitle">Выездной ремонт Apple</span>
+                    </a>
+                    <div class="p_header_phones">
+                        <div class="p_header_phone">
+                            <a href="tel:88002000056" class="p_header_number">8 800 200 00 56</a>
+                            <div class="note">Звоните нам бесплатно</div>
+                        </div>
+                        <div class="p_header_whatsup hidden-xs">
+                            <a href="tel:+79165383333" class="p_header_number">+7 916 538 33 33</a>
+                            <div class="note">Пишите нам в WhatsApp</div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <main class="content-wrap">
+                <section class="error-page">
+    <h1>
+        404 Ошибка    </h1>
+    <h2>
+        Страница не найдена    </h2>
+    <p>Могут быть несколько причин:</p>
+    <ul>
+        <li>Страница перемещена или переименована</li>
+        <li>Страницы больше не существует на этом cайте</li>
+        <li>URL не соответствует действительности</li>
+    </ul>
+
+    <p><a class="back_link" href="javascript:history.go(-1)">Вернуться назад</a></p>
+    <p><a class="back_link" href="/">Вернуться на главную</a></p>
+
+</section>            </main>
+                </div>
+</div>
+<!-- Скрипты, активизирующие поддержку
+  - HTML5,
+  - медиазапросы,
+  - box-sizing,
+  - background-size соответственно -->
+<!--[if lt IE 9]>
+
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"><script>
+<script src ="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+<script src="https://raw.githubusercontent.com/srobbin/jquery-backstretch/master/jquery.backstretch.min.js"></script>
+<![endif]-->
+
+<!-- Библиотека Jquery-->
+<script type="text/javascript" src="templates/solo/js/jquery-3.1.1.min.js"></script>
+
+<script src="templates/solo/js/jqueryui/js/jquery-ui-1.12.1.custom.min.js"></script>  
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="templates/solo/js/bootstrap.min.js"></script>
+<script src="templates/solo/js/bootstrap-tabcollapse.js"></script>
+
+
+<!-- PLUGINS -->
+<script type="text/javascript" src="includes/javascript/superfish/superfish.js"></script>
+<script type="text/javascript" src="includes/javascript/superfish/jquery.hoverIntent.js"></script>
+<script type="text/javascript" src="includes/javascript/lib/jquery.form.js"></script>
+<script type="text/javascript" src="includes/modules/rating/rating.js"></script>
+<script type="text/javascript" src="includes/javascript/lib/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="includes/javascript/jquerymultiselect/jquery.multiselect.min.js"></script>
+<script type="text/javascript" src="templates/solo/js/owl-carousel/owl.carousel.min.js"></script>
+<script type="text/javascript" src="templates/solo/js/jquery.mask.min.js"></script>
+<script type="text/javascript" src="templates/solo/js/bootstrap-datetimepicker.min.js"></script>
+<script type="text/javascript" src="templates/solo/js/audioplayer.js"></script>
+<script type="text/javascript" src="includes/javascript/lib/jquery.unveil.js"></script>
+<script type="text/javascript" src='includes/javascript/accordion/js/jquery.dcjqaccordion.js'></script>
+<!-- // PLUGINS -->
+<script type="text/javascript">
+    </script>
+
+<!-- Functions -->
+<script type="text/javascript" src="templates/solo/js/functions.js"></script>
+<!-- Initialization -->
+<script type="text/javascript" src="templates/solo/js/init.js"></script>
+
+
+
+<!--  Скрипты для обновления списка товаров -->
+ 
+    <script type="text/javascript" src="ext/compare/compare.js"></script>
+
+<script type="text/javascript" src="//consultsystems.ru/script/33545/" async charset="utf-8"></script>
+<link rel="stylesheet" href="https://cdn.envybox.io/widget/cbk.css">
+<script type="text/javascript" src="https://cdn.envybox.io/widget/cbk.js?wcb_code=879c7c4c27c1fcf168461dac2de7a230" charset="UTF-8" async></script>
+ <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ 
+  ga('create', 'UA-84407926-1', 'auto');
+  ga('send', 'pageview');
+ 
+</script>
+<!-- Yandex.Metrika counter --> <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter38622470 = new Ya.Metrika({ id:38622470, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/38622470" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+    
+    
+    
+	
+
+    <script type="text/javascript">
+         window.fbAsyncInit = function() {
+	         FB.init({
+		         appId      : '1849675378584621',
+		         xfbml      : true,
+		         version    : 'v2.5'
+	         });
+         //   FB.Event.subscribe('edge.create', function(response) {alert('Возможно, теперь вы получите скидку 5%');});
+         //   FB.Event.subscribe('edge.remove',function(response) {alert('Ваша скидка 5% ОТМЕНЕНА!');});
+         };   
+
+         (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/_/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+         }(document, 'script', 'facebook-jssdk'));
+    </script>
+ 
+    <script type="text/javascript" src="ext/multicolor/multicolor.js"></script>
+
+
+<script type="text/javascript">const BUTTON_SEND = "Отправить"; const VK_LOGIN = "Логин"; const IMAGE_BUTTON_IN_CART = "В корзине"; const SHOW_RESULTS = "Показать все результаты"; const IMAGE_BUTTON_ADDTO_CART = "Купить"; const TEMPLATE_PATH = "templates/solo"; </script></body>
+</html>
